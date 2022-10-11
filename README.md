@@ -1,8 +1,7 @@
 # PaytmClone
 
-This is a clone of the home page of Paytm:$ 
-$  $ https://paytm.com/$ $ 
-$ 
+This is a clone of the home page of Paytm:
+https://paytm.com/. 
 It is a responsive website implementation using tailwind.
 
 
