@@ -16,6 +16,9 @@ It is a responsive website implementation using tailwind.
 - ALign the cards on the "credit card" section.
 - Give proper hyper-links
 - Implement animations wherever necessary
+- Work on Sticky top menu.
+- Work on sticky bottom download tab for smaller screen.
+- Work in finer details
 
 ## Time-Taken:
 8hours approx.
