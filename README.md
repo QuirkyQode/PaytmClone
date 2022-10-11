@@ -4,6 +4,8 @@ This is a clone of the home page of Paytm:
 https://paytm.com/. 
 It is a responsive website implementation using tailwind.
 
+## Deployed link
+https://paytm-clone-home.netlify.app/
 
 ## Tech used:
 - HTMLCSS
@@ -19,6 +21,7 @@ It is a responsive website implementation using tailwind.
 - Work on Sticky top menu.
 - Work on sticky bottom download tab for smaller screen.
 - Work in finer details
+- The images are directly link to the Paytm CDN. I think it is better to download these images into the project workspace.
 
 ## Time-Taken:
 8hours approx.
